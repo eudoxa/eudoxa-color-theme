@@ -1,0 +1,21 @@
+{
+    "name": "eudoxa",
+    "displayName": "eudoxa",
+    "description": "eudoxa color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "eudoxa",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eudoxa-color-theme.json"
+            }
+        ]
+    }
+}
